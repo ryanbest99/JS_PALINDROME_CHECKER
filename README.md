@@ -14,6 +14,8 @@ If the number/word is a palindrome: “True”
 
 If the number/word is not palindrome: “False”<br>
 
+<img src="./preview.gif" alt="gif" width="400">
+
 ## **Table of Contents**
 
 - [Features](#features)
